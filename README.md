@@ -9,6 +9,7 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 
 ## Installation
 
-1. Make a local folder.
-2. Add the following files to your local folder: `manifest.json`, `popup.html`, `popup.js`, `background.js`, `icon.png`, `style.css`.
-3. 
+1. Make a local folder named 'EasyCMS'.
+2. Add the following the folder: `manifest.json`, `popup.html`, `popup.js`, `background.js`, `icon.png`, `style.css`.
+3. Edit `API_KEY` in `background.js` according to instructions from Abdul.
+4. Edit `key` and `client_id` in `manifest.json` according to instructions from Abdul.
