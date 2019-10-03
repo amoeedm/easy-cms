@@ -8,3 +8,7 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 <img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/demo.gif">
 
 ## Installation
+
+1. Make a local folder.
+2. Add the following files to your local folder: `manifest.json`, `popup.html`, `popup.js`, `background.js`, `icon.png`, `style.css`.
+3. 
