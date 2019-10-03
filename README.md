@@ -1,1 +1,3 @@
 # Easy CMS Populate
+
+## Installation
