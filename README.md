@@ -5,7 +5,7 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 
 ## Demonstration
 
-<img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/demo.gif">
+<img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/docs/demo.gif">
 
 ## Installation
 
