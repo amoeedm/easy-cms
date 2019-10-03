@@ -27,4 +27,5 @@ You can permanently change the default values of the extension by editing `popup
 The extension assumes the following:
 * All three fields are non-empty prior to population. 
 * The current tab open is a `Load Exercises CREATE` Google Sheet.
+
 Users are notified with alerts when they disregard the assumptions.
