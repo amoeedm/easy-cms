@@ -17,7 +17,7 @@ chrome.runtime.onMessage.addListener(
             interactive: true
         }, function(token) {
 
-            var API_KEY = 'AIzaSyAx6b2vgaCiInlMv3zD25MwROWPI8YP2oQ';
+            var API_KEY = <Insert API key>;
             var range = 'Sheet1!A2:G' + (numberRows + 1);
             var params = {
                 values: data
