@@ -11,8 +11,8 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 
 1. Make a local folder named `EasyCMS`.
 2. Add the following the folder: `manifest.json`, `popup.html`, `popup.js`, `background.js`, `icon.png`, `style.css`.
-3. Edit `API_KEY` in `background.js` according to <a href="https://tinyurl.com/EasyCMSDetails">notes.txt</a>.
-4. Edit `key` and `client_id` in `manifest.json` according to <a href="https://tinyurl.com/EasyCMSDetails">notes.txt</a>.
+3. Edit `API_KEY` in `background.js` according to <a href="https://tinyurl.com/EasyCMSDetails">notes.txt</a> (access only for Kikora employees).
+4. Edit `key` and `client_id` in `manifest.json` according to <a href="https://tinyurl.com/EasyCMSDetails">notes.txt</a>. (access only for Kikora employees).
 5. Go to `chrome://extensions/` in the Chrome browser.
 6. Enable `Developer mode` (Norwegian: `Utviklermodus`).
 7. Click on the `Load unpacked extension` (Norwegian: `Last inn upakket`) and choose the local folder `EasyCMS`.
