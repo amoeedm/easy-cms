@@ -30,3 +30,7 @@ The extension assumes the following:
 * The current tab open is a `Load Exercises CREATE` Google Sheet.
 
 Users are notified with alerts when they disregard the assumptions.
+
+## Contribute
+
+All Kikora employees are welcome to make any further improvements.
