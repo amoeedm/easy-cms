@@ -17,3 +17,7 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 6. Click on the `Load unpacked extension` (Norwegian: `Last inn upakket`) and choose the local folder `EasyCMS`.
 7. Look for the Kikora icon <img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/icon.png" width="20"> on your toolbar.
 8. Enjoy!
+
+## Tips and tricks
+
+You can permanently change the default values of the extension by editing `popup.html`. For example, changing `abdul@kikora.no` to your own e-mail and changing `20` to your preferred intial number of exercises can increase your user experience.
