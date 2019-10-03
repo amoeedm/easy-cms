@@ -16,7 +16,7 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 5. Go to `chrome://extensions/` in the Chrome browser.
 6. Click on the `Load unpacked extension` (Norwegian: `Last inn upakket`) and choose the local folder `EasyCMS`.
 7. Look for the Kikora icon <img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/icon.png" width="20"> on your toolbar.
-8. Enjoy!
+8. Enjoy! Happy authoring.
 
 ## Tips and tricks
 
@@ -27,5 +27,4 @@ You can permanently change the default values of the extension by editing `popup
 The extension assumes the following:
 * All three fields are non-empty prior to population. 
 * The current tab open is a `Load Exercises CREATE` Google Sheet.
-
 Users are notified with alerts when they disregard the assumptions.
