@@ -21,3 +21,10 @@ The Kikora CMS is designed around authors populating cells to initialize a Googl
 ## Tips and tricks
 
 You can permanently change the default values of the extension by editing `popup.html`. For example, changing `abdul@kikora.no` to your own e-mail and changing `20` to your preferred intial number of exercises can increase your user experience.
+
+## Troubleshooting
+
+The extension assumes the following:
+* All three fields are non-empty prior to population. 
+* The current tab open is a `Load Exercises CREATE` Google Sheet.
+Users are notified with alerts when they disregard the assumptions.
