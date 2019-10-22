@@ -8,3 +8,5 @@
 <br>
 
 ## 1. Om Google Chrome utvidelser
+
+<div align="center"><img src="chromeArchitecture.png"></div>
