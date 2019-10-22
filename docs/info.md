@@ -5,5 +5,6 @@
 2. Arkitektur: Easy CMS<br>
 3. Prosess: start til nåværende versjon<br>
 4. Mulige forbedringer<br>
+<br>
 
 ## 1. Om Google Chrome utvidelser
