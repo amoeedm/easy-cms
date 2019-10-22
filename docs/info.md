@@ -11,12 +11,12 @@
 
 * Nødvendig: `manifest.json` (info og rettigheter).<br/>
 * Arkitektur:<br/>
-<div align="center"><img src="chromeArchitecture.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/docs/chromeArchitecture.png"></div>
 <br/><br/>
 
 ## 2 Arkitektur: Easy CMS Populate
 
-<div align="center"><img src="currentArchitecture.png"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/amoeedm/easy-cms/master/docs/currentArchitecture.png"></div>
 
 ### 2.1 Handlingssekvens
 
