@@ -10,5 +10,5 @@
 ## 1. Om Google Chrome utvidelser
 <br>
 * Nødvendig: `manifest.json`.<br>
-* Arkitektur:
+* Arkitektur:<br>
 <div align="center"><img src="chromeArchitecture.png"></div>
