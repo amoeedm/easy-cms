@@ -43,6 +43,7 @@
 
 ## 4 Mulige forbedringer
 
-* Bruke `content.js` og oppdatere generell Google Sheet, hente DOM-element med `url` og oppdaterer.
-* Leveres pakket istedenfor upakket.
-* Lage andre maler for automatisert utfylling, og la brukeren hake av malen.
+* Arkitektur: bruke `content.js` og oppdatere generell Google Sheet, hente DOM-element med `url` og oppdaterer.
+* Funksjonalitet: lage andre maler for automatisert utfylling, og la brukeren hake av malen.
+* Testing: lage unit tester og integrasjonstester med Jest.
+* Deployment: leveres pakket istedenfor upakket.
